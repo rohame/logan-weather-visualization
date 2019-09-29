@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project are [2016-2018 daily weather report of Logan International Airport](https://gist.github.com/rohame/c26cf5cb80db6520d56fd0921510520b).
+The data I propose to visualize for my project are [2016-2018 daily weather report of Logan International Airport](https://gist.github.com/rohame/c26cf5cb80db6520d56fd0921510520b), and [Logan International Airport aviation data](https://gist.github.com/rohame/0141629f53fc311b7b5c68faefda94ef).
 
 ## Prototypes
 
@@ -32,5 +32,5 @@ The lower part is a circle marking the mean temperature in a year. Each angle re
 
 ## Open Questions
 
-* Aviation data are needed, but Logan Airport doesn't provide daily flight statistics. Perhaps refer to other airport.
+~~* Aviation data are needed, but Logan Airport doesn't provide daily flight statistics. Perhaps refer to other airport.~~ Dataset found.
 * The "ring chart" is now beyond my capability.
