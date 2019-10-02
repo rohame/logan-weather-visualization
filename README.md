@@ -37,6 +37,7 @@ The lower part is a circle marking the mean temperature in a year. Each angle re
 
 ## Schedule
 Item | Estimated time of complete
+-- | --:
 Collect and clean data | Done
 Use d3 to draw the basic plot like the first prototype (plus flight data) with axises and color | Sun. 10/06/2019
 Add interactions for above | Fri. 10/11/2019
