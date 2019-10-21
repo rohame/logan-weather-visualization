@@ -56,4 +56,4 @@ Final polish | Sun. 10/30/2019
 * [Scatter plot with interactive color legend](https://beta.vizhub.com/rohame/901bed0992504bd6921d72554ff75be1)
 * [Ring chart with rectangle](https://beta.vizhub.com/rohame/2c3fb8f2543842798d941493c754ca74)
 * [Ring chart with d3.arc()](https://beta.vizhub.com/rohame/cf04c9370e4746c0891713e7d7d5e3a4)
-* [Ring chart with path]()
+* [Ring chart with path](https://beta.vizhub.com/rohame/535e80e5bce34c4095a5b82ccb26ea6f)
