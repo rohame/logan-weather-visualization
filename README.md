@@ -50,3 +50,10 @@ Final polish | Sun. 10/30/2019
 
 * ~~Aviation data are needed, but Logan Airport doesn't provide daily flight statistics. Perhaps refer to other airport.~~ Dataset found.
 * ~~The "ring chart" is now beyond my capability.~~ Addressed by Professor.
+
+## Interemediate Versions
+* [Scatter plot](https://beta.vizhub.com/rohame/a2876336ebb3453bb22f4e09986e58f1)
+* [Scatter plot with interactive color legend](https://beta.vizhub.com/rohame/901bed0992504bd6921d72554ff75be1)
+* [Ring chart with rectangle](https://beta.vizhub.com/rohame/2c3fb8f2543842798d941493c754ca74)
+* [Ring chart with d3.arc()](https://beta.vizhub.com/rohame/cf04c9370e4746c0891713e7d7d5e3a4)
+* [Ring chart with path]()
