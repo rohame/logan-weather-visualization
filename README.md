@@ -59,7 +59,7 @@ Final polish | Sun. 10/30/2019
 * [Ring chart with path](https://beta.vizhub.com/rohame/535e80e5bce34c4095a5b82ccb26ea6f)
 * [Ring chart with color representing bad weather](https://beta.vizhub.com/rohame/c2bf33809f374802ab78372dd49db450)
 * [Ring chart with interaction](https://beta.vizhub.com/rohame/011d1bb13d484d25be5f47e528dde9a8)
-* [Linked views](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
+* [Linked views (final version)](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
 
 ## Deliverables
 [![Final project](https://user-images.githubusercontent.com/33828578/67913789-906ee980-fb64-11e9-94ce-04aee0b3fafc.png)](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
