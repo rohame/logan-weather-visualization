@@ -84,6 +84,7 @@ Final polish | Sun. 10/30/2019
 
 ## Future Work
 * Create a menu to select different y-axises
+* Rewrite with React
 * Make the code dynamic
 * Create a hover effect to select from different years
 * Add another axis to the ring chart
