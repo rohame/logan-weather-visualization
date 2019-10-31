@@ -64,7 +64,9 @@ Final polish | Sun. 10/30/2019
 ## Deliverables
 [![Final project](https://user-images.githubusercontent.com/33828578/67913789-906ee980-fb64-11e9-94ce-04aee0b3fafc.png)](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
 
-Features:
+[Portfolio Video](https://youtu.be/sSTFB9J3PiM)
+
+### Features:
 * Scatter plot
   * x-axis is days in a year
   * y-axis is the fastest 2-minute wind speed in the day
