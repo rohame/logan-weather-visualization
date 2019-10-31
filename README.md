@@ -59,3 +59,29 @@ Final polish | Sun. 10/30/2019
 * [Ring chart with path](https://beta.vizhub.com/rohame/535e80e5bce34c4095a5b82ccb26ea6f)
 * [Ring chart with color representing bad weather](https://beta.vizhub.com/rohame/c2bf33809f374802ab78372dd49db450)
 * [Ring chart with interaction](https://beta.vizhub.com/rohame/011d1bb13d484d25be5f47e528dde9a8)
+* [Linked views](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
+
+## Deliverables
+[![Final project](https://user-images.githubusercontent.com/33828578/67913789-906ee980-fb64-11e9-94ce-04aee0b3fafc.png)](https://beta.vizhub.com/rohame/d916689f2e564c88bdb4b322af923727)
+
+Features:
+* Scatter plot
+  * x-axis is days in a year
+  * y-axis is the fastest 2-minute wind speed in the day
+  * Size of the circles represents the delay caused by weather
+  * Color represents the precipitation
+* Ring chart
+  * Axial dimension is the delay caused by weather
+  * Tangential dimension is the days in a year
+  * Red means bad weather such as fog, glaze, and smoke
+  * Blue means normal weather
+* Interactions
+  * When the circles are hovered, the color of the circle and the corresponding bar in ring chart will change
+  * When the direction of the bar of ring chart is hovered, thecolor of the bar and the corresponding circle in scatter plot will change
+  * When circle or bar are hovered, a tooltip indicating the date and delay caused by weather will show up.
+
+## Future Work
+* Create a menu to select different y-axises
+* Make the code dynamic
+* Create a hover effect to select from different years
+* Add another axis to the ring chart
