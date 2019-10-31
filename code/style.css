@@ -1,0 +1,30 @@
+body {
+	fint-size: 20px;
+  margin: 0;
+}
+
+#scatter-plot-container text,
+#ring-chart-container text{
+  text-anchor: middle;
+  dominant-baseline: middle;
+  font-family: Lato;
+  fill: #635f5d;
+}
+
+.tooltip {
+  font-size: 2em
+}
+
+.tick text {
+	font-family: Lato;
+  fill: #635f5d;
+  font-size: 2em;
+}
+
+.tick line {
+	stroke: #c0c0bb;
+}
+
+.axis-label {
+	font-size: 2em;
+}
