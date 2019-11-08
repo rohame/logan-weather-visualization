@@ -1,5 +1,8 @@
 # Logan International Airport Weather and Aviation Data Visualization
 
+## Final Deliverables
+[See here](#deliverables)
+
 ## Data
 
 The data I proposed to visualize are [2016-2018 daily weather report of Logan International Airport](https://gist.github.com/rohame/c26cf5cb80db6520d56fd0921510520b), and [2016-2018 Logan International Airport aviation data](https://gist.github.com/rohame/0141629f53fc311b7b5c68faefda94ef).
